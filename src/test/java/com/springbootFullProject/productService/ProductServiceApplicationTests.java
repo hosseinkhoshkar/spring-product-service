@@ -21,7 +21,8 @@ class ProductServiceApplicationTests {
 	}
 
 	@Test
-	void contextLoads() {
+	void shouldCreateProduct() {
+
 	}
 
 }
